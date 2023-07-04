@@ -1,0 +1,24 @@
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\bin\Debug\net6.0-windows\Atm mock app.exe
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\bin\Debug\net6.0-windows\Atm mock app.deps.json
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\bin\Debug\net6.0-windows\Atm mock app.runtimeconfig.json
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\bin\Debug\net6.0-windows\Atm mock app.dll
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\bin\Debug\net6.0-windows\Atm mock app.pdb
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\Atm mock app.csproj.AssemblyReference.cache
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\Atm mock app_MarkupCompile.cache
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\Atm mock app_MarkupCompile.lref
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\Atm mock app.g.resources
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\Atm mock app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\Atm mock app.AssemblyInfoInputs.cache
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\Atm mock app.AssemblyInfo.cs
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\Atm mock app.csproj.CoreCompileInputs.cache
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\Atm mock app.dll
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\refint\Atm mock app.dll
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\Atm mock app.pdb
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\Atm mock app.genruntimeconfig.cache
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\ref\Atm mock app.dll
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\kilim\source\repos\Atm mock app\Atm mock app\obj\Debug\net6.0-windows\Atm mock app.csproj.CopyComplete

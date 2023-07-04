@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FWMK6mKc6dBIrZiIn+4sCt90hUM49LOdCGfXFVd6NfBPAIE6aXgStgfJqNkNLNqtQga3UgCQtpr2V/Tqu5rtZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kilim\\source\\repos\\Atm mock app\\Atm mock app\\Atm mock app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kilim\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kilim\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\kilim\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
